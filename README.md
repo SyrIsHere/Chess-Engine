@@ -36,16 +36,6 @@
 | **Evaluation** | Material + Positional + Structure |
 | **Transposition Table** | 64 MB with Zobrist hashing |
 
-# Performance Comparison
-
-| Engine | ELO | NPS | Type |
-|--------|-----|-----|------|
-| **This Engine** | **~1800** | **100K** | **Educational + GUI** |
-| Sunfish | ~1500 | 1K | Educational |
-| TSCP | ~1600 | 20K | Educational |
-| Vice | ~2000 | 200K | Educational |
-| Stockfish | ~3600 | 100M+ | Professional |
-
 # Purpose and Disclaimer
 This project was created **exclusively for educational and informational purposes** to demonstrate chess programming concepts, AI algorithms, and software development techniques.
 
